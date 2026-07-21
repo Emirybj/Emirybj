@@ -1,4 +1,4 @@
-## <div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Emily+Bueno+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -11,7 +11,7 @@ Olá! me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Atualmente curso En
  
 #
 
-<img align="right" alt="Minha imagem" height="190px" src="./src/tumblr_2f380a6cd816153a2cfabdc573b2392_3b0799ae_400.webp">
+<img align="right" height="190px" src="src/tumblr_2f380a6cd816153a2cfafbdc573b2392_3b0799ae_400.webp">
 
 <h3 align="left">Connect with me ･ﾟ:</h3>
 
