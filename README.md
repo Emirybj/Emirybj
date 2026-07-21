@@ -5,7 +5,10 @@
 </div>
 
 #
-Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de Engenharia de Software na Universidade Positivo e, no momento, dedico a maior parte dos meus estudos ao desenvolvimento em Python. Busco aprimorar minha lógica de programação e evoluir tecnicamente na linguagem para ingressar no mercado de trabalho. 
+
+
+Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de Engenharia de Software na Universidade Positivo e, no momento, dedico a maior parte dos meus estudos ao desenvolvimento em Python. Busco aprimorar minha lógica de programação e evoluir tecnicamente na linguagem para ingressar no mercado de trabalho.
+ 
 #
 
 <img align="right" height="190px" src="src/tumblr_2f380a6cd816153a2cfafbdc573b2392_3b0799ae_400.webp">
@@ -56,6 +59,14 @@ Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de En
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+<img 
+    align="left" 
+    alt="Sql" 
+    title="Sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 
 
 <br/>
