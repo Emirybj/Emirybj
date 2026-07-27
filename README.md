@@ -93,8 +93,8 @@ Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de En
 </p>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emirybj/Emirybj/main/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emirybj/Emirybj/main/github-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emirybj/Emirybj/main/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emirybj/Emirybj/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Emirybj/Emirybj/output/github-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emirybj/Emirybj/output/github-snake.svg">
 </picture>
 
