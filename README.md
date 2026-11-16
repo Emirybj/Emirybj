@@ -7,7 +7,7 @@
 #
 
 
-Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de Engenharia de Software na Universidade Positivo e, no momento, dedico a maior parte dos meus estudos ao desenvolvimento em Python. Busco aprimorar minha lógica de programação e evoluir tecnicamente na linguagem para ingressar no mercado de trabalho.
+Olá! Me chamo Emily Bueno, tenho 21 anos e sou de Curitiba. Sou estudante de Engenharia de Software na Universidade Positivo e, no momento, dedico a maior parte dos meus estudos ao desenvolvimento em Python e Dados. Busco aprimorar minha lógica de programação e evoluir tecnicamente na linguagem para ingressar no mercado de trabalho.
  
 #
 
